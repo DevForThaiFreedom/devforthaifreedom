@@ -8,6 +8,6 @@ Developer For Thai Freedom Hackathon (or #devปลดแอก) is a hackathon 
 
 The code of conduct, contribution guidelines and getting started page needs your help. Please send a pull request to propose the CoC and contribution guidelines!
 
-- [./guidelines/getting-started.md](Getting Started (WIP))
-- [./guidelines/code-of-conduct.md](Code of Conduct (WIP))
-- [./guidelines/contribution-guidelines.md](Contribution Guidelines (WIP))
+- [Getting Started (WIP)](guidelines/getting-started.md)
+- [Code of Conduct (WIP)](guidelines/code-of-conduct.md)
+- [Contribution Guidelines (WIP)](guidelines/contribution-guidelines.md)
