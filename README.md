@@ -24,6 +24,14 @@ Here are some examples on the issues and the projects you can build:
 
 The code of conduct, contribution guidelines and getting started page needs your help. Please send a pull request to propose the CoC and contribution guidelines!
 
-- [Getting Started (WIP)](guidelines/getting-started.md)
+- [Getting Started (WIP)](docs/getting-started.md)
 - [Code of Conduct (WIP)](guidelines/code-of-conduct.md)
 - [Contribution Guidelines (WIP)](guidelines/contribution-guidelines.md)
+
+## GitHub Project Structure
+
+- designs: design files (e.g. logos, posters, graphics, templates, fonts, etc.) -- please post both vector (i.e. SVG) and bitmap (i.e. PNG) variants if possible. For designs done with online collaboration tools such as Figma or Adobe XD, please post a URL inside of a markdown file instead. Please keep in mind that the design format should be contributable, editable and reusable by everyone.
+
+- docs: documentation for the project (e.g. getting started guides), written as markdown files.
+
+- guidelines: guideline documents (e.g. code of conduct, contribution guidelines, privacy policy), written as markdown files.
