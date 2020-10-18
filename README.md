@@ -4,6 +4,8 @@ Welcome to the main repository of the **Developer for Thai Freedom hackathon** p
 
 Developer For Thai Freedom hackathon (or #devปลดแอก) is a hackathon for developers to actively participate in the fight for freedom and democracy in Thailand by building software and hardware solutions, in order to solve problems you faced in the democratic process (i.e. problems you faced when going to protests, or when signing petitions.)
 
+**DISCLAIMER**: Developer for Thai Freedom is **NOT affiliated, associated, authorized, endorsed by, or in any way officially connected with any other protest or democracy groups** (e.g. FreeYouth #เยาวชนปลดแอก), despite any similarities. We're just an open hackathon group for developers to build creative solutions to tackle issues in Thai democracy, and any behaviour that violates our code of conduct is strictly forbidden.
+
 # Introduction: What is the Developer for Thai Freedom Hackathon?
 
 The #devปลดแอก hackathon (or "Developer for Thai Freedom hackathon") is a 72-hour online hackathon which will be hosted across 3 protest days, in which the tentative date is 28th - 30th October of 2020.
