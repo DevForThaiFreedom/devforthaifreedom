@@ -2,7 +2,8 @@
 
 <img src="./designs/github-cover.png" alt="Developer for Thai Freedom" width="600px">
 
-[![Discord](https://img.shields.io/discord/767276359373815809?style=flat-square)](https://discord.com/invite/qayPpkG)
+[![Discord](https://img.shields.io/discord/767276359373815809?style=flat-square&logo=discord&color=7289da)](https://discord.com/invite/qayPpkG) 
+[![hackmd-github-sync-badge](https://hackmd.io/i6NoGP2pTVq_tNe496LtlA/badge)](https://hackmd.io/i6NoGP2pTVq_tNe496LtlA)
 
 Welcome to the main repository of the **Developer for Thai Freedom hackathon** project. This repository will contain the policy, design, proposals, documentation and information for the project.
 
