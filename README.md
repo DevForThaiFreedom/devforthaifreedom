@@ -1,4 +1,4 @@
-# Developer for Thai Freedom Hackathon #Devปลดแอก - An Amazing Project
+# Developer for Thai Freedom Hackathon #Devปลดแอก
 
 Welcome to the main repository of the **Developer for Thai Freedom hackathon** project. This repository will contain the policy, design, proposals, documentation and information for the project.
 
