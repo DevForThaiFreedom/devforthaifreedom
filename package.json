@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:DevForThaiFreedom/devforthaifreedom.git",
-  "author": "pontakornth <pontakorn61@gmail.com>",
+  "author": "Developer for Thai Freedom <devforthaifreedom@example.com>",
   "license": "MIT",
-  "scripts":{
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+  "scripts": {
+    "dev": "vuepress dev .",
+    "build": "vuepress build ."
   },
   "private": false,
   "devDependencies": {
