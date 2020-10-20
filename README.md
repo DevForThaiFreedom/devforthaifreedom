@@ -1,5 +1,7 @@
 # Developer for Thai Freedom Hackathon #Devปลดแอก
 
+[![Discord](https://img.shields.io/discord/767276359373815809?style=flat-square)](https://discord.com/invite/qayPpkG)
+
 Welcome to the main repository of the **Developer for Thai Freedom hackathon** project. This repository will contain the policy, design, proposals, documentation and information for the project.
 
 Developer For Thai Freedom hackathon (or #devปลดแอก) is a hackathon for developers to actively participate in the fight for freedom and democracy in Thailand by building software and hardware solutions, in order to solve problems you faced in the democratic process (i.e. problems you faced when going to protests, or when signing petitions.)
