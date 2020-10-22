@@ -1,9 +1,13 @@
-name: DiscordNotificationPush
+name: Push Notification
 on: push
-jobs: 
-  - name: Notify
-    uses: rjstone/discord-webhook-notify@v1
-    with:
-      severity: info
-      webhookUrl: ${{ secrets.DISCORD_WEBHOOK }}
-      details: 'There is a push on the repository'
+jobs:
+  push:
+    name: Push notification
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Push to discord"
+        uses: rjstone/discord-webhook-notify@v1
+        with:
+          details: "There is a push"
+          severity: info
+          webhookUrl: ${{ secrets.DISCORD_WEBHOOK }}
