@@ -1,0 +1,13 @@
+name: PR Notification
+on: pull_request
+jobs:
+  push:
+    name: PR notification
+    runs-on: ubuntu-latest
+    steps:
+      - name: "PR to discord"
+        uses: rjstone/discord-webhook-notify@v1
+        with:
+          severity: info
+          details: "There is a pull request"
+          webhookUrl: ${{ secrets.DISCORD_WEBHOOK }}
