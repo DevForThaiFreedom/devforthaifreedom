@@ -2,7 +2,7 @@
 
 <img src="./designs/github-cover.png" alt="Developer for Thai Freedom" width="600px">
 
-[![Discord](https://img.shields.io/discord/767276359373815809?style=flat-square&logo=discord&color=7289da)](https://discord.com/invite/qayPpkG) 
+[![Discord](https://img.shields.io/discord/767276359373815809?style=flat-square&logo=discord&color=7289da)](https://discord.com/invite/qayPpkG)
 [![issues-badge](https://img.shields.io/github/issues/devforthaifreedom/devforthaifreedom?style=flat-square)](https://github.com/DevForThaiFreedom/devforthaifreedom/issues)
 [![GitHub stars](https://img.shields.io/github/stars/devforthaifreedom/devforthaifreedom?style=flat-square)](https://github.com/devforthaifreedom/devforthaifreedom/stargazers)
 [![hackmd-github-sync-badge](https://hackmd.io/i6NoGP2pTVq_tNe496LtlA/badge)](https://hackmd.io/i6NoGP2pTVq_tNe496LtlA)
@@ -42,13 +42,11 @@ Here are some examples on the issues and the projects you can build:
 The code of conduct, contribution guidelines and getting started page needs your help. Please send a pull request to propose the code of conduct and contribution guidelines!
 
 - [Getting Started (WIP)](docs/getting-started.md)
-- [Code of Conduct (WIP)](guidelines/code-of-conduct.md)
-- [Contribution Guidelines (WIP)](guidelines/contribution-guidelines.md)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Contribution Guidelines (WIP)](CONTRIBUTION.md)
 
 ## GitHub Project Structure
 
 - designs: design files (e.g. logos, posters, graphics, templates, fonts, etc.) -- please post both vector (i.e. SVG) and bitmap (i.e. PNG) variants if possible. For designs done with online collaboration tools such as Figma or Adobe XD, please post a URL inside of a markdown file instead. Please keep in mind that the design format should be contributable, editable and reusable by everyone.
 
 - docs: documentation for the project (e.g. getting started guides), written as markdown files.
-
-- guidelines: guideline documents (e.g. code of conduct, contribution guidelines, privacy policy), written as markdown files.
