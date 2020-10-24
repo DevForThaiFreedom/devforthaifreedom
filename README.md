@@ -7,13 +7,15 @@
 [![GitHub stars](https://img.shields.io/github/stars/devforthaifreedom/devforthaifreedom?style=flat-square)](https://github.com/devforthaifreedom/devforthaifreedom/stargazers)
 [![hackmd-github-sync-badge](https://hackmd.io/i6NoGP2pTVq_tNe496LtlA/badge)](https://hackmd.io/i6NoGP2pTVq_tNe496LtlA)
 
-Welcome to the main repository of the **Developer for Thai Freedom hackathon** project. This repository will contain the policy, design, proposals, documentation and information for the project.
+Welcome to the **Developer for Thai Freedom hackathon** project. This website/repository will contain the policy, design, proposals, documentation and information for the project.
 
 Developer For Thai Freedom hackathon (or #devปลดแอก) is a hackathon for developers to actively participate in the fight for freedom and democracy in Thailand by building software and hardware solutions, in order to solve problems you faced in the democratic process (i.e. problems you faced when going to protests, or when signing petitions.)
 
 Join us on **Discord** and hack away: [https://discord.com/invite/qayPpkG](https://discord.com/invite/qayPpkG)!
 
 Check out our **website** on [https://devforthaifreedom.com](https://devforthaifreedom.com).
+
+Our main **GitHub repo** is on [https://github.com/devforthaifreedom](https://github.com/devforthaifreedom).
 
 ### Disclaimer
 
