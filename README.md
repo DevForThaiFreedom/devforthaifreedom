@@ -1,6 +1,6 @@
 # Developer for Thai Freedom Hackathon #Devปลดแอก
 
-<img src="./designs/github-cover.png" alt="Developer for Thai Freedom" width="600px">
+<img src="./designs/cover/cover.png" alt="Developer for Thai Freedom" width="600px">
 
 [![Discord](https://img.shields.io/discord/767276359373815809?style=flat-square&logo=discord&color=7289da)](https://discord.com/invite/qayPpkG)
 [![issues-badge](https://img.shields.io/github/issues/devforthaifreedom/devforthaifreedom?style=flat-square)](https://github.com/DevForThaiFreedom/devforthaifreedom/issues)
