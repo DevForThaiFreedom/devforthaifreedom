@@ -25,7 +25,7 @@ We're just an open hackathon group for developers to build creative solutions to
 
 # Introduction: What is the Developer for Thai Freedom Hackathon?
 
-The #devปลดแอก hackathon (or "Developer for Thai Freedom hackathon") is a 96-hour online hackathon which will be hosted across 4 protest days on **Fri, October 30th** to **Mon, November 2nd**, 2020.
+The #devปลดแอก hackathon (or "Developer for Thai Freedom hackathon") is a 96-hour online hackathon which will be hosted across 4 protest days on **November 6th - 9th (Fri - Mon)**, 2020.
 
 The hackathon's objective is for developers in Thailand to build solutions and hacks to solve the issues they faced related to Thai democracy and freedom.
 
